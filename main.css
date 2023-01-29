@@ -2,21 +2,3 @@ body {
     text-align: center;
     font-size: 20px;
 }
-
-
-table{
-    text-align: center;
-    margin: auto;
-}
-
-td, tr {
-    padding: 0px;
-    border: 1px solid black;
-    height: 250px;
-
-    }
-
-img{
-    margin: auto;
-    display: block;
-}
