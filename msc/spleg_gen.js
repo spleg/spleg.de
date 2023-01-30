@@ -1,5 +1,5 @@
 function setup() {
-    createCanvas(800, 800);
+    createCanvas(600, 200);
     noLoop();
     fill(0);
     ellipseMode(RADIUS);
