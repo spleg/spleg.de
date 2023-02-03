@@ -5,11 +5,15 @@ body {
 
 section {
     display: inline-block; 
-    width: 40%; 
+    width: 50%; 
     height: 100vh; 
     overflow-y: auto;
     font-size: 10vmin;
     word-wrap: break-word;
+}
+
+.wewin {
+    width: 30%;
 }
 
 .sidenav {
