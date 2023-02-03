@@ -18,8 +18,13 @@ section {
 
 p1 {
     font-size: 5vmin;
+    margin: 0; 
 }
 
+h1 {
+    font-size: 6vmin;  
+    margin: 0; 
+}
 
 .date {
     display: inline-block;
