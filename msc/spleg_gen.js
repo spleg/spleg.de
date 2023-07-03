@@ -6,7 +6,7 @@ function setup() {
   }
   
   function draw() {
-    background(255);
+    background(1,179,165);
     drawp = points(5);
     for (var i = 0; i<5; i++){
       circle(drawp[i][0], drawp[i][1], secdist(drawp,i))
