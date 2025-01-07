@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>gorgi's ontological proof</title>
+  <link>spleg.de</link>
+  <description>hyper local news</description>
+
+   <item>
+	<title>the title of your post</title>
+	<link>https://link-to-your-post.com</link>
+	<description>description of the post / item</description>
+  </item>
+
+</channel>
+</rss>
