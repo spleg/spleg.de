@@ -1,0 +1,20 @@
+This file is to remeber how to use the rss system I have built lol.
+
+once the article is written add its to  rss.html in the format
+
+<article>
+<h2 id='01012025'>title</h2>
+  - -  body  - -
+</article>
+
+then add it to the navbar with
+<div><a href="#01012025"><span class="date">01012025</span><span class="thing">title</span></a></div>
+
+Then add it to rss.xml with the format
+
+   <item>
+	<title>title</title>
+	<link>https://link-to-your-website.com/rss.html#1/1/2024</link>
+	<description>descript..</description>
+  </item>
+
