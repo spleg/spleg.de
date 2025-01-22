@@ -1,4 +1,46 @@
+
 body {
-    text-align: center;
-    font-size: 20px;
+    text-align: left;
+    font-size: 1.33vw;
+    background-color: #d8e4da;
+    padding: 0;
+    overflow-x: hidden;
+    
 }
+a:visited {
+    color: red;
+}
+a:link{
+    color: red;
+}
+
+pre span:hover {
+background-color: blue;
+color: white;
+}
+
+pre {
+    counter-reset: li;
+    
+   }
+
+   pre span {
+    width: 100%;
+    
+    line-height: 0;
+    
+  }
+
+  pre span:before {
+    counter-increment: li;
+    list-style: upper-hexadecimal;
+    content: counter(li, upper-hexadecimal);
+    display: inline-block;
+    margin-right: .7em;
+    
+  }
+
+  @counter-style upper-hexadecimal {
+    system: numeric;
+    symbols: '\30' '\31' '\32' '\33' '\34' '\35' '\36' '\37' '\38' '\39' '\41' '\42' '\43' '\44' '\45' '\46';
+    pad: 3 '0'; }
