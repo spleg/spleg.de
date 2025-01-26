@@ -14,15 +14,11 @@ pre {
 
 section {
     width: 78%; 
-
-    
-    height: 100vh; 
     overflow-y: auto;
     overflow-x: hidden;
     font-size: 2vmin;
     word-wrap: break-word;
 }
-
 
 .upper{
     height: 95%;
@@ -32,6 +28,8 @@ section {
 }
 .sidenav {
     width: 22%;
+    height: 100vh;
+    overflow: hidden;
 }
 
 p1 {
