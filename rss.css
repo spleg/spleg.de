@@ -18,6 +18,7 @@ section {
     overflow-x: hidden;
     font-size: 2vmin;
     word-wrap: break-word;
+    height: 100vh;
 }
 
 .upper{
@@ -28,8 +29,7 @@ section {
 }
 .sidenav {
     width: 22%;
-    height: 100vh;
-    overflow: hidden;
+
 }
 
 p1 {
