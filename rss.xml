@@ -6,11 +6,15 @@
   <title>gorgi's ontological proof</title>
   <link>spleg.de</link>
   <description>hyper local news</description>
-
-   <item>
-	<title>01072025 happy new year</title>
-	<link>file:///F:/gorgisite/rss.html#07012025</link>
-	<description>my first ever post to my rss feed </description>
+  <item>
+    <title>26012026 Do I care enough?</title>
+    <link>https://spleg.de/rss.html#26012025</link>
+    <description>Do I care enough and other thoughts I had in the last two weeks.</description>
+  </item>
+  <item>
+    <title>07012025 happy new year</title>
+    <link>https://spleg.de/rss.html#07012025</link>
+    <description>my first ever post to my rss feed </description>
   </item>
 
 </channel>
