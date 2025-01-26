@@ -13,7 +13,7 @@ pre {
    }
 
 section {
-    width: 75%; 
+    width: 78%; 
 
     
     height: 100vh; 
@@ -23,11 +23,15 @@ section {
     word-wrap: break-word;
 }
 
-.pad{
-    width: 5%;
+
+.upper{
+    height: 95%;
+}
+.lower{
+    height: 5%;
 }
 .sidenav {
-    width: 20%;
+    width: 22%;
 }
 
 p1 {
