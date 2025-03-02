@@ -8,7 +8,7 @@ once the article is written add its to  rss.html in the format
 </article>
 
 then add it to the navbar with
-<div><a href="#01012025"><span class="date">01012025</span><span class="thing">title</span></a></div>
+<div><a href="#01012025"><span class="date">01012025</span><span class="thing">/span></a></div>
 
 Then add it to rss.xml with the format
 
